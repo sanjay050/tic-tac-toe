@@ -209,3 +209,7 @@ nav ul{
     <color name="ageTextColor">#FFFFFF</color>
     <color name="lightGreyTextColor">#B7B7B7</color>
 </resources>
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
